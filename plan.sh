@@ -1,6 +1,6 @@
 pkg_name=imagemagick
 pkg_origin=franklinwebber
-pkg_version=7.0.8-49
+pkg_version=7.0.8-68
 pkg_description="A software suite to create, edit, compose, or convert bitmap images."
 pkg_upstream_url="http://imagemagick.org/"
 pkg_license=('Apache2')
